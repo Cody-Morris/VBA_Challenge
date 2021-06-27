@@ -6,6 +6,7 @@
 ### VBA courses day 2
 #### Class group study VBA discussion
 #### Added yearly change script
+#### Added percent change script
   ![stock Market](Images/stockmarket.jpg)
 ### Tutoring Session 
 ###using the Multipke year stock and solving the if = 0
